@@ -162,7 +162,7 @@ sudo mysql_secure_installation
 
 ## Documentation  
 
-For detailed documentation, refer to the [Project Documentation](#https://github.com/Kamatdhanya/Virtual_Desktop_And_Remote_Work/commit/950203d2db1295bee72fac5c08326841395c0d38) (link to your documentation).  
+For detailed documentation, refer to the [Project Documentation](https://github.com/Kamatdhanya/Virtual_Desktop_And_Remote_Work/commit/950203d2db1295bee72fac5c08326841395c0d38)  
 
 ---
 
